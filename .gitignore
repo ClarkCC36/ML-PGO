@@ -1,0 +1,6 @@
+# Compiled binary
+tools/calcsum
+
+# OS files
+.DS_Store
+Thumbs.db
