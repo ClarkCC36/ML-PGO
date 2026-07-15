@@ -60,7 +60,7 @@ Three kernel versions were modified to support kernel-level PGO, along with matc
 | 4.18 | 8.3.1 | GCOV format version 5 (GCC 5+) |
 | 4.19 | 6.2.0 | |
 
-Kernel modification follows the approach described in Yuan et al. [1,2,3] and Bearman [4].
+The Kernel and GCC modifications follow the approach described in Yuan et al. [1,2,3] and Bearman [4].
 
 **[1]** Yuan, P., Guo, Y., & Chen, X. (2014). "Experiences in profile-guided operating system kernel optimization." *Proc. 5th Asia-Pacific Workshop on Systems (APSys)*. DOI: 10.1145/2637166.2637227
 
