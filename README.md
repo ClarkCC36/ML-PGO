@@ -60,7 +60,7 @@ Three kernel versions were modified to support kernel-level PGO, along with matc
 | 4.18 | 8.3.1 | GCOV format version 5 (GCC 5+) |
 | 4.19 | 6.2.0 | |
 
-Kernel modification follows the approach described in Yuan et al. [1,2,3] and Ian [4].
+Kernel modification follows the approach described in Yuan et al. [1,2,3] and Bearman [4].
 
 **[1]** Yuan, P., Guo, Y., & Chen, X. (2014). "Experiences in profile-guided operating system kernel optimization." *Proc. 5th Asia-Pacific Workshop on Systems (APSys)*. DOI: 10.1145/2637166.2637227
 
@@ -68,7 +68,7 @@ Kernel modification follows the approach described in Yuan et al. [1,2,3] and Ia
 
 **[3]** Yuan, P., Guo, Y., Zhang, L., Chen, X., & Mei, H. (2018). "Building application-specific operating systems: A profile-guided approach." *Science China Information Sciences*. DOI: 10.1007/s11432-017-9300-y
 
-**[4]** Ian Bearman. (2020). Exploring Profile Guided Optimization of the Linux Kernel. *Linux Plumbers Conference 2020*. https://lpc.events/event/7/contributions/771/.
+**[4]** Ian Bearman. (2020). Exploring Profile Guided Optimization of the Linux Kernel. *Linux Plumbers Conference 2020*. https://lpc.events/event/7/contributions/771/
 
 ### Applications
 
