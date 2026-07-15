@@ -135,7 +135,7 @@ CFLAGS += -fprofile-use=<PATH_TO_PROFILE_DIR> \
           -Wno-error
 ```
 
-This step follows the AutoFDO-inspired approach [4] adapted for kernel-level PGO, using GCC''s `-fprofile-use` to feed collected execution counts back into the compiler.
+This step uses GCC''s `-fprofile-use` to feed collected execution counts back into the compiler.
 
 ### 5. Build Instrumented Application
 
